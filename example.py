@@ -1,3 +1,2 @@
-name = "Tamkin"
-
-print(name[::-1])
+x = 10 % 12
+print(x)
